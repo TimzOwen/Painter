@@ -49,5 +49,4 @@ https://github.com/mrnninster/painter.gitt
 I have succesfully trained a neural network to predict the price points of the diffrent paintings, however I used a pretrained model which is ResNet50, partly because i wanted to cut down training time and because except i have more time the only suitable model achitecture i can use is keras tuner and i don't run a gpu. I have made the files available on a folder in my google cloud here is the link https://drive.google.com/open?id=1VCttRp-TI5iPXMWsB1SInuRESstzw7SY (Fair warning it is 485 mb). I will make the traing file avalable here so fine tuning can be made, based on my training if you desire.
 
 
-** Here are some screensots of the results
-![](screenshots/Screenshot%20(120).jpg
+![](screenshots/Screenshot%20(120).png)
