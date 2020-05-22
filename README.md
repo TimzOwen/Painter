@@ -16,8 +16,8 @@ The finished product for this project is to be a windows, .exe file, an android 
 
 # Proposed Stack
 
--Python
--Flutter
+- Python
+- Flutter
 
 # Benefits
 
@@ -36,9 +36,9 @@ The finished product for this project is to be a windows, .exe file, an android 
 
 # How to setup project and run locally
 You will need the following to run the neural net script for infrence
--Tensorflow
--Open CV
--numpy
+- Tensorflow
+- Open CV
+- numpy
 
 ### Clone the repository 
 
