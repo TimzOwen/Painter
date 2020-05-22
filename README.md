@@ -46,7 +46,7 @@ You will need the following to run the neural net script for infrence
 ### Clone the repository 
 
 ```
-git clone https://github.com/mrnninster/AgroAi.git
+https://github.com/mrnninster/painter.gitt
 ```
 
 
