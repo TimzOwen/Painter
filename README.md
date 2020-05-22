@@ -1,6 +1,3 @@
-# painter
-
-
 # Problem
 
 Estimation of price point an art work would most likely be sold at.
