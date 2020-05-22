@@ -50,3 +50,6 @@ I have succesfully trained a neural network to predict the price points of the d
 
 
 ![](screenshots/Screenshot%20(120).png)
+
+
+![](screenshots/Screenshot%20(121).png)
