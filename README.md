@@ -16,8 +16,8 @@ The finished product for this project is to be a windows, .exe file, an android 
 
 # Proposed Stack
 
-Python
-Flutter
+-Python
+-Flutter
 
 # Benefits
 
