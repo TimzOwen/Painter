@@ -10,15 +10,15 @@ def pred_file(loader):
     pred1 = loader.predict([prepare(path)])
     print('')
     print('='*30)
-    print('Making Prediction')
-    print(max(pred1[0]))
+    print('Model\'s Prediction')
+    #print(max(pred1[0]))
     q=[]
     for i in pred1[0]:
         q.append(i)
     s = max(q)
     var3 = q.index(s)
     #print(var3)
-    print(Categories[var3])
+    print("Your art piece would be sold for a price of "+str(Categories[var3])+" Euros")
     print('')
     pred_file(loader)
 
